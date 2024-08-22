@@ -12,10 +12,4 @@ Welcome to Example's documentation!
    some-feature.md
    another-feature.md
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+ 
